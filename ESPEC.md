@@ -30,7 +30,7 @@ ancestrales | F4 teclados glifos | F5 ordenes por voz (Vosk es, pendiente).
 ## NOMBRE OFICIAL (Omar, 12-oct): GRATIS PA LA BANDA ESTUDI-HAMBRE
 MISION: gratis para los amigos que todavia no conozco — estudiantes que
 estudian y trabajan y pasan hambre. "Yo fui uno: o comia o estudiaba."
-LICENCIA: GPLv3 (voto Zi, decision Omar) — copyleft, puerta que no se cierra.
+LICENCIA DUAL: MIT (gratis: discapacidad+estudiantes+banda) + comercial (empresas/especuladores pagan). Ver LICENSE_COMERCIAL.md.
 COLABORADORES: frases locales con explicacion del ingenio por pais/idioma
 (canon MX: el albur — doble sentido que se explica y arranca sonrisa).
 Nombre traducido a 8 lenguas por Zi -> nativos afinan (primer issue).
