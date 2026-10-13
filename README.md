@@ -1,3 +1,5 @@
+
+<!-- CANARIO PVWV0278 | nacido 2026-10-13 | repo OmarAbdielAlvarado/estudi-hambre -->
 # GRATIS PA LA BANDA ESTUDI-HAMBRE
 Gratis pa los amigos que aun no conozco: estudiantes que trabajan,
 estudian y pasan hambre. "Yo fui uno: o comia o estudiaba."
